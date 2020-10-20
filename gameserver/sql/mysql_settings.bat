@@ -3,7 +3,7 @@
 set PATH="C:\Program Files\MySQL\MySQL Server 5.1\bin"
 
 set USER=root
-set PASS=password от MySQL
+set PASS=55r9gGnbre
 set DBNAME=interlude
 set DBHOST=localhost
 

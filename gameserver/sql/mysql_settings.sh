@@ -1,4 +1,4 @@
 USER=root
-PASS=
-DBNAME=l2jdb
+PASS=55r9gGnbre
+DBNAME=interlude
 DBHOST=localhost

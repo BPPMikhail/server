@@ -1,0 +1,11 @@
+[09:03:15]  INFO Loaded 127 server names
+[09:03:15]  INFO DatabaseFactory: Database connection tested and working.
+[09:03:15]  INFO Loaded whirlpool2 as default crypt.
+[09:03:16]  INFO Cached 10 KeyPairs for RSA communication
+[09:03:16]  INFO Stored 20 keys for Blowfish communication
+[09:03:16]  INFO Loaded 1 registered GameServer(s).
+[09:03:16]  INFO Loaded 0 proxy server(s).
+[09:03:16]  INFO Listening for gameservers on 127.0.0.1:9014
+[09:03:16]  INFO Listening for clients on *:2106
+[09:04:32]  INFO Trying to register gameserver: 1 [127.0.0.1]
+[09:04:32]  INFO Gameserver registration successful.

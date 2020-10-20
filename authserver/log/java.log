@@ -1,14 +1,11 @@
-[21.08.18 11:26:53:171]  INFO authserver.Config: Loaded 127 server names
-[21.08.18 11:26:53:330]  INFO db.BaseDataConnectionFactory: DatabaseFactory: Database connection tested and working.
-[21.08.18 11:26:53:334]  INFO authserver.Config: Loaded whirlpool2 as default crypt.
-[21.08.18 11:26:54:790]  INFO authserver.Config: Cached 10 KeyPairs for RSA communication
-[21.08.18 11:26:54:806]  INFO authserver.Config: Stored 20 keys for Blowfish communication
-[21.08.18 11:26:54:819]  INFO authserver.GameServerManager: Loaded 1 registered GameServer(s).
-[21.08.18 11:26:54:819]  INFO authserver.GameServerManager: Loaded 0 proxy server(s).
-[21.08.18 11:26:54:859]  INFO authserver.AuthServer: Listening for gameservers on 127.0.0.1:9014
-[21.08.18 11:26:54:860]  INFO authserver.AuthServer: Listening for clients on *:2106
-[21.08.18 11:27:02:615]  INFO gs2as.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
-[21.08.18 11:27:02:626]  INFO gs2as.AuthRequest: Gameserver registration successful.
-[21.08.18 12:12:19:158] ERROR gamecomm.GameServerCommunication: Gameserver I/O error: Удаленный хост принудительно разорвал существующее подключение
-[21.08.18 12:12:19:160]  INFO gamecomm.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
-[21.08.18 12:12:19:160]  INFO gamecomm.GameServerConnection: Setting gameserver down. All proxies will be down as well.
+[20.10.20 09:03:15:380]  INFO authserver.Config: Loaded 127 server names
+[20.10.20 09:03:15:601]  INFO db.BaseDataConnectionFactory: DatabaseFactory: Database connection tested and working.
+[20.10.20 09:03:15:607]  INFO authserver.Config: Loaded whirlpool2 as default crypt.
+[20.10.20 09:03:16:043]  INFO authserver.Config: Cached 10 KeyPairs for RSA communication
+[20.10.20 09:03:16:318]  INFO authserver.Config: Stored 20 keys for Blowfish communication
+[20.10.20 09:03:16:336]  INFO authserver.GameServerManager: Loaded 1 registered GameServer(s).
+[20.10.20 09:03:16:336]  INFO authserver.GameServerManager: Loaded 0 proxy server(s).
+[20.10.20 09:03:16:349]  INFO authserver.AuthServer: Listening for gameservers on 127.0.0.1:9014
+[20.10.20 09:03:16:350]  INFO authserver.AuthServer: Listening for clients on *:2106
+[20.10.20 09:04:32:960]  INFO gs2as.AuthRequest: Trying to register gameserver: 1 [127.0.0.1]
+[20.10.20 09:04:32:972]  INFO gs2as.AuthRequest: Gameserver registration successful.
