@@ -768,9 +768,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_weapon_i03"/>
     <set name="price" value="500000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -783,9 +783,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_armor_i03"/>
     <set name="price" value="80000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -797,8 +797,9 @@
     <set name="class" value="MISC"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_weapon_i01"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -810,8 +811,9 @@
     <set name="class" value="MISC"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_armor_i01"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -824,9 +826,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_weapon_i02"/>
     <set name="price" value="110000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -839,9 +841,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_armor_i02"/>
     <set name="price" value="15000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -853,8 +855,9 @@
     <set name="class" value="MISC"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_weapon_i01"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -866,8 +869,9 @@
     <set name="class" value="MISC"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_armor_i01"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -880,9 +884,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_weapon_i01"/>
     <set name="price" value="50000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -895,9 +899,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_armor_i01"/>
     <set name="price" value="6000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -909,8 +913,9 @@
     <set name="class" value="MISC"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_weapon_i01"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -922,8 +927,9 @@
     <set name="class" value="MISC"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_armor_i01"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -936,9 +942,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_weapon_i05"/>
     <set name="price" value="5000000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -951,9 +957,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_armor_i05"/>
     <set name="price" value="500000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -965,8 +971,9 @@
     <set name="class" value="MISC"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_weapon_i01"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
@@ -978,8 +985,9 @@
     <set name="class" value="MISC"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_scroll_of_enchant_armor_i01"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
