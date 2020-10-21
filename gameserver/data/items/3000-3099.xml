@@ -386,7 +386,7 @@
   </etcitem>
   <etcitem id="3031" name="Spirit Ore">
     <!-- [spirit_ore] -->
-    <set name="weight" value="5"/>
+    <set name="weight" value="0"/>
     <set name="class" value="MATHERIALS"/>
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_stone_gray_i00"/>
