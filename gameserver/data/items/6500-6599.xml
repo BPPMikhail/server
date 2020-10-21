@@ -1070,9 +1070,9 @@
     <set name="crystal_type" value="NONE"/>
     <set name="icon" value="icon.etc_blessed_scrl_of_ench_wp_s_i05"/>
     <set name="price" value="30000000"/>
-    <set name="stackable" value="false"/>
+    <set name="stackable" value="true"/>
     <set name="type" value="SCROLL"/>
-    <set name="weight" value="120"/>
+    <set name="weight" value="12"/>
     <cond msgId="1508">
       <not>
         <player olympiad="true"/>
