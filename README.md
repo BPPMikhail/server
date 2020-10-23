@@ -1,3 +1,9 @@
+### Admins accounts:
+    * Log/pass: admin1; Pin: 111111;
+    * Log/pass: admin2; Pin: 111111;
+    * Log/pass: admin3; Pin: 111111;
+    * Log/pass: admin4; Pin: 111111;
+
 ### Выполнено:
 1. Свитики заточек (все):
     
