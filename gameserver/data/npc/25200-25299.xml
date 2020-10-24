@@ -7275,8 +7275,8 @@
         <reward item_id="6365" min="1" max="1" chance="0.3205"/><!--Basalt Battlehammer-->
         <reward item_id="6366" min="1" max="1" chance="0.3205"/><!--Imperial Staff-->
         <reward item_id="6369" min="1" max="1" chance="0.3205"/><!--Dragon Hunter Axe-->
-        <reward item_id="6697" min="3" max="7" chance="33.1708"/><!--Arcana Mace Head-->
-        <reward item_id="8751" min="1" max="2" chance="6.5"/><!--High-Grade Life Stone Level 70-->
+        <reward item_id="6697" min="3" max="7" chance="27.1708"/><!--Arcana Mace Head-->
+        <reward item_id="8751" min="1" max="2" chance="6.0"/><!--High-Grade Life Stone Level 70-->
       </group>
       <group chance="77.9325">
         <reward item_id="6693" min="6" max="18" chance="16.2448"/><!--Dragon Hunter Axe Blade-->
@@ -7284,9 +7284,10 @@
         <reward item_id="6689" min="16" max="48" chance="5.8707"/><!--Basalt Battlehammer Head-->
         <reward item_id="6579" min="1" max="1" chance="0.3631"/><!--Arcana Mace-->
         <reward item_id="6577" min="1" max="1" chance="1.0207"/><!--Blessed Scroll: Enchant Weapon (S-grade)-->
-        <reward item_id="960" min="1" max="1" chance="61.2417"/><!--Scroll: Enchant Armor (S-grade)-->
+        <reward item_id="960" min="1" max="1" chance="55.2417"/><!--Scroll: Enchant Armor (S-grade)-->
         <reward item_id="959" min="1" max="1" chance="6.1241"/><!--Scroll: Enchant Weapon (S-grade)-->
-        <reward item_id="8761" min="1" max="2" chance="6.5"/><!--Top-Grade Life Stone Level 70-->
+        <reward item_id="8761" min="1" max="2" chance="6.0"/><!--Top-Grade Life Stone Level 70-->
+
       </group>
     </rewardlist>
   </npc>
