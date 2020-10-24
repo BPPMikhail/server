@@ -7261,57 +7261,32 @@
     <rewardlist type="RATED_GROUPED">
       <group chance="88.2753">
         <reward item_id="6713" min="46" max="136" chance="5.4379"/>
-        <!--Sealed Major Arcana Boots Design-->
         <reward item_id="6712" min="36" max="108" chance="6.8731"/>
-        <!--Sealed Major Arcana Gloves Fabric-->
         <reward item_id="6709" min="28" max="82" chance="8.9975"/>
-        <!--Sealed Draconic Leather Boots Design-->
         <reward item_id="6708" min="20" max="60" chance="12.3716"/>
-        <!--Sealed Draconic Leather Gloves Fabric-->
         <reward item_id="6704" min="14" max="40" chance="18.3282"/>
-        <!--Sealed Imperial Crusader Boots Design-->
         <reward item_id="6703" min="112" max="336" chance="2.2092"/>
-        <!--Sealed Imperial Crusader Gauntlets Design-->
         <reward item_id="6686" min="1" max="1" chance="1.9417"/>
-        <!--Sealed Major Arcana Boots-->
         <reward item_id="6685" min="1" max="1" chance="1.9417"/>
-        <!--Sealed Major Arcana Gloves-->
         <reward item_id="6682" min="1" max="1" chance="1.9417"/>
-        <!--Sealed Draconic Leather Boots-->
         <reward item_id="6681" min="1" max="1" chance="1.9417"/>
-        <!--Sealed Draconic Leather Gloves-->
         <reward item_id="6677" min="1" max="1" chance="1.9417"/>
-        <!--Sealed Imperial Crusader Boots-->
         <reward item_id="6676" min="1" max="1" chance="1.9417"/>
-        <!--Sealed Imperial Crusader Gauntlets-->
         <reward item_id="6365" min="1" max="1" chance="0.3205"/>
-        <!--Basalt Battlehammer-->
         <reward item_id="6366" min="1" max="1" chance="0.3205"/>
-        <!--Imperial Staff-->
         <reward item_id="6369" min="1" max="1" chance="0.3205"/>
-        <!--Dragon Hunter Axe-->
         <reward item_id="6697" min="3" max="7" chance="33.1708"/>
-        <!--Arcana Mace Head-->
         <reward item_id="8751" min="1" max="2" chance="6.1241"/>
-        <!--High-Grade Life Stone Level 70-->
       </group>
       <group chance="77.9325">
         <reward item_id="6693" min="6" max="18" chance="16.2448"/>
-        <!--Dragon Hunter Axe Blade-->
         <reward item_id="6690" min="11" max="31" chance="9.1349"/>
-        <!--Imperial Staff Head-->
         <reward item_id="6689" min="16" max="48" chance="5.8707"/>
-        <!--Basalt Battlehammer Head-->
         <reward item_id="6579" min="1" max="1" chance="0.3631"/>
-        <!--Arcana Mace-->
         <reward item_id="6577" min="1" max="1" chance="1.0207"/>
-        <!--Blessed Scroll: Enchant Weapon (S-grade)-->
         <reward item_id="960" min="1" max="1" chance="61.2417"/>
-        <!--Scroll: Enchant Armor (S-grade)-->
         <reward item_id="959" min="1" max="1" chance="6.1241"/>
-        <!--Scroll: Enchant Weapon (S-grade)-->
         <reward item_id="8761" min="1" max="2" chance="6.1241"/>
-        <!--Top-Grade Life Stone Level 70-->
       </group>
     </rewardlist>
   </npc>
