@@ -598,7 +598,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 46-->
 	<variation_data mineralId="8724">
 		<options type="WARRIOR">
 			<variation1>
@@ -1196,7 +1196,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 49-->
 	<variation_data mineralId="8725">
 		<options type="WARRIOR">
 			<variation1>
@@ -1794,7 +1794,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 52-->
 	<variation_data mineralId="8726">
 		<options type="WARRIOR">
 			<variation1>
@@ -2392,7 +2392,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 55-->
 	<variation_data mineralId="8727">
 		<options type="WARRIOR">
 			<variation1>
@@ -2990,7 +2990,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 58-->
 	<variation_data mineralId="8728">
 		<options type="WARRIOR">
 			<variation1>
@@ -3588,7 +3588,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 61-->
 	<variation_data mineralId="8729">
 		<options type="WARRIOR">
 			<variation1>
@@ -4186,7 +4186,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 64-->
 	<variation_data mineralId="8730">
 		<options type="WARRIOR">
 			<variation1>
@@ -4784,7 +4784,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 67-->
 	<variation_data mineralId="8731">
 		<options type="WARRIOR">
 			<variation1>
@@ -5382,7 +5382,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 70-->
 	<variation_data mineralId="8732">
 		<options type="WARRIOR">
 			<variation1>
@@ -5621,7 +5621,7 @@
 					<option id="16282" chance="0.93" />
 					<option id="16283" chance="0.93" />
 					<option id="16284" chance="0.93" />
-					<option id="16285" chance="0.93" />
+					<option id="16285" chance="0.93" /><!--Passive: Increases PvP P. Atk.-->
 					<option id="16286" chance="1.42" />
 				</group>
 				<group chance="3.0">
@@ -5980,7 +5980,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Life Stone Level 76-->
 	<variation_data mineralId="8733">
 		<options type="WARRIOR">
 			<variation1>
@@ -6578,7 +6578,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 46-->
 	<variation_data mineralId="8734">
 		<options type="WARRIOR">
 			<variation1>
@@ -7176,7 +7176,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 49-->
 	<variation_data mineralId="8735">
 		<options type="WARRIOR">
 			<variation1>
@@ -7774,7 +7774,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 52-->
 	<variation_data mineralId="8736">
 		<options type="WARRIOR">
 			<variation1>
@@ -8372,7 +8372,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 55-->
 	<variation_data mineralId="8737">
 		<options type="WARRIOR">
 			<variation1>
@@ -8970,7 +8970,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 58-->
 	<variation_data mineralId="8738">
 		<options type="WARRIOR">
 			<variation1>
@@ -9568,7 +9568,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 61-->
 	<variation_data mineralId="8739">
 		<options type="WARRIOR">
 			<variation1>
@@ -10166,7 +10166,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 64-->
 	<variation_data mineralId="8740">
 		<options type="WARRIOR">
 			<variation1>
@@ -10764,7 +10764,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 67-->
 	<variation_data mineralId="8741">
 		<options type="WARRIOR">
 			<variation1>
@@ -11362,7 +11362,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 70-->
 	<variation_data mineralId="8742">
 		<options type="WARRIOR">
 			<variation1>
@@ -11960,7 +11960,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--Mid-Grade Life Stone Level 76-->
 	<variation_data mineralId="8743">
 		<options type="WARRIOR">
 			<variation1>
@@ -12558,7 +12558,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 46-->
 	<variation_data mineralId="8744">
 		<options type="WARRIOR">
 			<variation1>
@@ -13156,7 +13156,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 49-->
 	<variation_data mineralId="8745">
 		<options type="WARRIOR">
 			<variation1>
@@ -13754,7 +13754,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 52-->
 	<variation_data mineralId="8746">
 		<options type="WARRIOR">
 			<variation1>
@@ -14352,7 +14352,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 55-->
 	<variation_data mineralId="8747">
 		<options type="WARRIOR">
 			<variation1>
@@ -14950,7 +14950,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 58-->
 	<variation_data mineralId="8748">
 		<options type="WARRIOR">
 			<variation1>
@@ -15548,7 +15548,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 61-->
 	<variation_data mineralId="8749">
 		<options type="WARRIOR">
 			<variation1>
@@ -16146,7 +16146,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 64-->
 	<variation_data mineralId="8750">
 		<options type="WARRIOR">
 			<variation1>
@@ -16744,7 +16744,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 67-->
 	<variation_data mineralId="8751">
 		<options type="WARRIOR">
 			<variation1>
@@ -17342,7 +17342,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 70-->
 	<variation_data mineralId="8752">
 		<options type="WARRIOR">
 			<variation1>
@@ -17940,7 +17940,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 76-->
 	<variation_data mineralId="8753">
 		<options type="WARRIOR">
 			<variation1>
@@ -18546,7 +18546,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 46-->
 	<variation_data mineralId="8754">
 		<options type="WARRIOR">
 			<variation1>
@@ -19152,7 +19152,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 49-->
 	<variation_data mineralId="8755">
 		<options type="WARRIOR">
 			<variation1>
@@ -19758,7 +19758,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 52-->
 	<variation_data mineralId="8756">
 		<options type="WARRIOR">
 			<variation1>
@@ -20364,7 +20364,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 55-->
 	<variation_data mineralId="8757">
 		<options type="WARRIOR">
 			<variation1>
@@ -20970,7 +20970,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 58-->
 	<variation_data mineralId="8758">
 		<options type="WARRIOR">
 			<variation1>
@@ -21576,7 +21576,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 61-->
 	<variation_data mineralId="8759">
 		<options type="WARRIOR">
 			<variation1>
@@ -22182,7 +22182,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 64-->
 	<variation_data mineralId="8760">
 		<options type="WARRIOR">
 			<variation1>
@@ -22788,7 +22788,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 67-->
 	<variation_data mineralId="8761">
 		<options type="WARRIOR">
 			<variation1>
@@ -23394,7 +23394,7 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 70-->
 	<variation_data mineralId="8762">
 		<options type="WARRIOR">
 			<variation1>
@@ -24000,5 +24000,5 @@
 				</group>
 			</variation2>
 		</options>
-	</variation_data>
+	</variation_data><!--High-Grade Life Stone Level 76-->
 </list>
