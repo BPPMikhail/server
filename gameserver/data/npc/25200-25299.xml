@@ -6451,6 +6451,42 @@
       <defence attribute="holy" value="0"/>
       <defence attribute="unholy" value="0"/>
     </attributes>
+    <rewardlist type="RATED_GROUPED">
+      <group chance="76.0634">
+        <!--Blue Wolf Gaiters Material-->
+        <reward item_id="4080" min="28" max="84" chance="10.9512"/>
+        <!--Blue Wolf Breastplate-->
+        <reward item_id="358" min="1" max="1" chance="1.8518"/>
+        <!--Blue Wolf Gaiters-->
+        <reward item_id="2380" min="1" max="1" chance="2.9666"/>
+        <!--        Doom Plate Armor-->
+        <reward item_id="2381" min="1" max="1" chance="1.266"/>
+        <!--        Blue Wolf Breastplate Part-->
+        <reward item_id="4078" min="9" max="27" chance="24.1942"/>
+        <!--        Doom Plate Armor Temper-->
+        <reward item_id="4081" min="3" max="7" chance="53.7702"/>
+        <!--        High-Grade Life Stone Level 49-->
+        <reward item_id="8744" min="1" max="2" chance="5.0"/>
+      </group>
+      <group chance="75.7557">
+        <!--        Bow of Peril Shaft-->
+        <reward item_id="4121" min="3" max="9" chance="92.9434"/>
+        <!--        Bow of Peril-->
+        <reward item_id="287" min="1" max="1" chance="2.0566"/>
+        <!--        Top-Grade Life Stone Level 49-->
+        <reward item_id="8754" min="1" max="2" chance="5.0"/>
+      </group>
+      <group chance="95.1974">
+        <!--        Scroll: Enchant Armor (B-grade)-->
+        <reward item_id="948" min="3" max="9" chance="28.9498"/>
+        <!--        Blessed Scroll: Enchant Armor (B-grade)-->
+        <reward item_id="6572" min="1" max="1" chance="18.5278"/>
+        <!--        Earth Egg (B-Grade)-->
+        <reward item_id="8165" min="1" max="3" chance="26.2612"/>
+        <!--        Destruction Tombstone-->
+        <reward item_id="8176" min="1" max="1" chance="26.2612"/>
+      </group>
+    </rewardlist>
   </npc>
   <npc id="25274" name="Carnabarun" title="Raid Fighter">
     <set name="aggroRange" value="0"/>
