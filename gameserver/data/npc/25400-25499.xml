@@ -1168,20 +1168,22 @@
     </attributes>
     <rewardlist type="RATED_GROUPED">
       <group chance="78.2002">
-        <reward item_id="2959" min="8" max="22" chance="41.7288"/>
+        <reward item_id="2959" min="8" max="22" chance="36.7288"/>
         <reward item_id="2966" min="24" max="72" chance="20.6289"/>
         <reward item_id="2497" min="1" max="1" chance="9.6509"/>
         <reward item_id="2414" min="1" max="1" chance="6.7521"/>
         <reward item_id="299" min="1" max="1" chance="0.5904"/>
         <reward item_id="2122" min="2" max="6" chance="20.6489"/>
+        <reward item_id="8753" min="1" max="2" chance="5.0"/>
       </group>
       <group chance="89.7803">
         <reward item_id="2114" min="2" max="4" chance="25.4426"/>
-        <reward item_id="2113" min="1" max="3" chance="38.1644"/>
+        <reward item_id="2113" min="1" max="3" chance="33.1644"/>
         <reward item_id="303" min="1" max="1" chance="0.6594"/>
         <reward item_id="301" min="1" max="1" chance="0.6594"/>
         <reward item_id="6573" min="1" max="1" chance="1.0216"/>
         <reward item_id="4609" min="1" max="1" chance="34.0526"/>
+        <reward item_id="8743" min="1" max="2" chance="5.0"/>
       </group>
       <group chance="86.1452">
         <reward item_id="4608" min="1" max="1" chance="35.4897"/>
@@ -1906,18 +1908,20 @@
       <group chance="57.8234">
         <reward item_id="442" min="1" max="1" chance="7.5016"/>
         <reward item_id="473" min="1" max="1" chance="11.9622"/>
-        <reward item_id="1988" min="8" max="22" chance="51.4086"/>
+        <reward item_id="1988" min="8" max="22" chance="46.4086"/>
         <reward item_id="1989" min="24" max="72" chance="25.1993"/>
         <reward item_id="266" min="1" max="1" chance="3.9283"/>
+        <reward item_id="8753" min="1" max="2" chance="5.0"/>
       </group>
       <group chance="55.7368">
         <reward item_id="2120" min="3" max="9" chance="100.0"/>
       </group>
       <group chance="81.0556">
-        <reward item_id="952" min="3" max="9" chance="61.8557"/>
+        <reward item_id="952" min="3" max="9" chance="56.8557"/>
         <reward item_id="4604" min="2" max="6" chance="15.4639"/>
         <reward item_id="4605" min="3" max="7" chance="12.3711"/>
         <reward item_id="4606" min="3" max="9" chance="10.3093"/>
+        <reward item_id="8743" min="1" max="2" chance="5.0"/>
       </group>
       <group chance="50.0">
         <reward item_id="8164" min="9" max="9" chance="50.0"/>
@@ -5019,16 +5023,18 @@
     <rewardlist type="RATED_GROUPED">
       <group chance="90.2336">
         <reward item_id="2414" min="1" max="1" chance="14.8211"/>
-        <reward item_id="2497" min="1" max="1" chance="21.1844"/>
+        <reward item_id="2497" min="1" max="1" chance="20.1844"/>
         <reward item_id="2959" min="53" max="157" chance="13.0852"/>
         <reward item_id="2966" min="192" max="576" chance="5.6601"/>
-        <reward item_id="951" min="1" max="1" chance="28.0859"/>
-        <reward item_id="4601" min="1" max="3" chance="17.1633"/>
+        <reward item_id="951" min="1" max="1" chance="25.0859"/>
+        <reward item_id="4601" min="1" max="3" chance="16.1633"/>
+        <reward item_id="8744" min="1" max="2" chance="5.0"/>
       </group>
       <group chance="66.299">
         <reward item_id="4602" min="2" max="4" chance="15.573"/>
-        <reward item_id="4603" min="1" max="1" chance="46.7191"/>
-        <reward item_id="8176" min="1" max="1" chance="37.7079"/>
+        <reward item_id="4603" min="1" max="1" chance="43.7191"/>
+        <reward item_id="8176" min="1" max="1" chance="34.7079"/>
+        <reward item_id="8754" min="1" max="2" chance="5.0"/>
       </group>
     </rewardlist>
   </npc>
