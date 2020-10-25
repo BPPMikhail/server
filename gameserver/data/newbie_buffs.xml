@@ -1,21 +1,88 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <list>
-    <warrior max_level="25">
-        <buff skill_id="4322" skill_level="1" min_level="8" />
-        <buff skill_id="4323" skill_level="1" min_level="11" />
-        <buff skill_id="4324" skill_level="1" min_level="12" />
-        <buff skill_id="4325" skill_level="1" min_level="13" />
-        <buff skill_id="4326" skill_level="1" min_level="14" />
-        <buff skill_id="4327" skill_level="1" min_level="15" />
+<!--    Default list-->
+<!--    <warrior max_level="25">-->
+<!--        <buff skill_id="4322" skill_level="1" min_level="8" />-->
+<!--        <buff skill_id="4323" skill_level="1" min_level="11" />-->
+<!--        <buff skill_id="4324" skill_level="1" min_level="12" />-->
+<!--        <buff skill_id="4325" skill_level="1" min_level="13" />-->
+<!--        <buff skill_id="4326" skill_level="1" min_level="14" />-->
+<!--        <buff skill_id="4327" skill_level="1" min_level="15" />-->
+<!--        <buff skill_id="4338" skill_level="1" min_level="16" />-->
+<!--    </warrior>-->
+<!--    <mage max_level="25">-->
+<!--        <buff skill_id="4322" skill_level="1" min_level="8" />-->
+<!--        <buff skill_id="4323" skill_level="1" min_level="11" />-->
+<!--        <buff skill_id="4328" skill_level="1" min_level="12" />-->
+<!--        <buff skill_id="4329" skill_level="1" min_level="13" />-->
+<!--        <buff skill_id="4330" skill_level="1" min_level="14" />-->
+<!--        <buff skill_id="4331" skill_level="1" min_level="15" />-->
+<!--        <buff skill_id="4338" skill_level="1" min_level="16" />-->
+<!--    </mage>-->
+    <warrior max_level="46">
+        <!--Master's Blessing - Blessed Body-->
+        <buff skill_id="7045" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Blessed Soul-->
+        <buff skill_id="7046" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Blessed Body-->
+        <buff skill_id="7047" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Blessed Soul-->
+        <buff skill_id="7049" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Shield-->
+        <buff skill_id="7051" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Magic Barrier-->
+        <buff skill_id="7052" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Wind Walk-->
+        <buff skill_id="7055" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Berserker Spirit-->
+        <buff skill_id="7056" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Focus-->
+        <buff skill_id="7041" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Death Whisper-->
+        <buff skill_id="7042" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Haste-->
+        <buff skill_id="7043" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Guidance-->
+        <buff skill_id="7044" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Might-->
+        <buff skill_id="7050" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Greater Might-->
+        <buff skill_id="7057" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Vampiric Rage-->
+        <buff skill_id="7053" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Chant of Victory-->
+        <buff skill_id="7064" skill_level="1" min_level="6" />
+        <!--Adventurer's Life Cubic (4338)-->
         <buff skill_id="4338" skill_level="1" min_level="16" />
     </warrior>
-    <mage max_level="25">
-        <buff skill_id="4322" skill_level="1" min_level="8" />
-        <buff skill_id="4323" skill_level="1" min_level="11" />
-        <buff skill_id="4328" skill_level="1" min_level="12" />
-        <buff skill_id="4329" skill_level="1" min_level="13" />
-        <buff skill_id="4330" skill_level="1" min_level="14" />
-        <buff skill_id="4331" skill_level="1" min_level="15" />
+    <mage max_level="46">
+        <!--Master's Blessing - Blessed Body-->
+        <buff skill_id="7045" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Blessed Soul-->
+        <buff skill_id="7046" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Agility-->
+        <buff skill_id="7047" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Decrease Weight-->
+        <buff skill_id="7049" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Shield-->
+        <buff skill_id="7051" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Magic Barrier-->
+        <buff skill_id="7052" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Wind Walk-->
+        <buff skill_id="7055" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Berserker Spirit-->
+        <buff skill_id="7056" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Acumen-->
+        <buff skill_id="7048" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Empower-->
+        <buff skill_id="7054" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Wild Magic-->
+        <buff skill_id="7059" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Clarity-->
+        <buff skill_id="7060" skill_level="1" min_level="6" />
+        <!--Master's Blessing - Prophecy of Water-->
+        <buff skill_id="7061" skill_level="1" min_level="6" />
+        <!--Adventurer's Life Cubic (4338)-->
         <buff skill_id="4338" skill_level="1" min_level="16" />
     </mage>
 </list>
