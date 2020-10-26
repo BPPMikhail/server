@@ -431,15 +431,15 @@
         <reward item_id="96" min="1" max="1" chance="2.2634"/>
       </group>
       <group chance="91.3453">
-        Chakram Edge
+        <!--        Chakram Edge-->
         <reward item_id="2073" min="12" max="36" chance="29.5174"/>
-        Scroll: Enchant Armor (C-grade)
+        <!--        Scroll: Enchant Armor (C-grade)-->
         <reward item_id="952" min="21" max="63" chance="9.4291"/>
-        Body Slasher Blade
+        <!--        Body Slasher Blade-->
         <reward item_id="2076" min="12" max="36" chance="24.7514"/>
-        Scythe Edge
+        <!--        Scythe Edge-->
         <reward item_id="2062" min="13" max="37" chance="19.8011"/>
-        Orcish Glaive Blade
+        <!--        Orcish Glaive Blade-->
         <reward item_id="2075" min="13" max="39" chance="16.501"/>
       </group>
       <group chance="50.0">
@@ -1103,6 +1103,54 @@
       <defence attribute="holy" value="0"/>
       <defence attribute="unholy" value="0"/>
     </attributes>
+    <rewardlist type="RATED_GROUPED">
+      <group chance="96.1882">
+        <!--        Avadon Breastplate Part-->
+        <reward item_id="4064" min="23" max="67" chance="10.9927"/>
+        <!--        Zubei's Gaiters Material-->
+        <reward item_id="4057" min="60" max="180" chance="6.3708"/>
+        <!--        Zubei's Breastplate Part-->
+        <reward item_id="4056" min="16" max="48" chance="15.4585"/>
+        <!--        Avadom Gaiters-->
+        <reward item_id="2379" min="1" max="1" chance="4.2047"/>
+        <!--        Avadon Breastplate-->
+        <reward item_id="2376" min="1" max="1" chance="2.6279"/>
+        <!--        Zubei's Gaiters-->
+        <reward item_id="383" min="1" max="1" chance="4.2047"/>
+        <!--        Zubei's Breastplate-->
+        <reward item_id="357" min="1" max="1" chance="2.6279"/>
+        <!--        Avadom Gaiters Material-->
+        <reward item_id="4065" min="11" max="31" chance="31.405"/>
+        <!--        Keshenberk Blade-->
+        <reward item_id="4107" min="9" max="27" chance="17.1078"/>
+        <!--        High-Grade Life Stone Level 49-->
+        <reward item_id="8744" min="1" max="2" chance="5.0"/>
+      </group>
+      <group chance="93.5228">
+        <!--        Sword of Valhalla Blade-->
+        <reward item_id="4108" min="14" max="42" chance="11.3112"/>
+        <!--        Great Sword Blade-->
+        <reward item_id="4104" min="5" max="15" chance="32.17"/>
+        <!--        Great Sword-->
+        <reward item_id="78" min="1" max="1" chance="1.2954"/>
+        <!--        Sword of Valhalla-->
+        <reward item_id="148" min="1" max="1" chance="1.2954"/>
+        <!--        Keshanberk-->
+        <reward item_id="142" min="1" max="1" chance="1.2954"/>
+        <!--        Dex+3 Str-3-->
+        <reward item_id="4605" min="5" max="15" chance="12.146"/>
+        <!--        Dex+3 Con-3-->
+        <reward item_id="4606" min="2" max="4" chance="35.4866"/>
+        <!--        Top-Grade Life Stone Level 49-->
+        <reward item_id="8754" min="1" max="2" chance="5.0"/>
+      </group>
+      <group chance="31.8059">
+        <!--        Con+3 Dex-3-->
+        <reward item_id="4604" min="2" max="6" chance="89.2857"/>
+        <!--        EAC-->
+        <reward item_id="952" min="21" max="63" chance="10.7143"/>
+      </group>
+    </rewardlist>
   </npc>
   <npc id="25514" name="Queen Shyeed" title="Raid Boss">
     <set name="aggroRange" value="0"/>
