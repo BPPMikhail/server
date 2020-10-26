@@ -6404,6 +6404,16 @@
         <reward item_id="8176" min="3" max="6" chance="33.3333"/>
         <reward item_id="8619" min="1" max="1" chance="33.3333"/>
       </group>
+      <group chance="50.0">
+        <!--        Top-Grade Life Stone Level 67-->
+        <reward item_id="8760" min="1" max="5" chance="25.0"/>
+        <!--        High-Grade Life Stone Level 67-->
+        <reward item_id="8750" min="1" max="5" chance="25.0"/>
+        <!--        Top-Grade Life Stone Level 64-->
+        <reward item_id="8759" min="3" max="8" chance="25.0"/>
+        <!--        High-Grade Life Stone Level 64-->
+        <reward item_id="8749" min="3" max="8" chance="25.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25074" name="Rudelto's Banshee" title="Raid Fighter">
