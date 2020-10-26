@@ -5627,6 +5627,16 @@
       <group chance="25.0">
         <reward item_id="8176" min="3" max="8" chance="100.0"/>
       </group>
+      <group chance="50.0">
+        <!--        Top-Grade Life Stone Level 67-->
+        <reward item_id="8760" min="1" max="5" chance="25.0"/>
+        <!--        High-Grade Life Stone Level 67-->
+        <reward item_id="8750" min="1" max="5" chance="25.0"/>
+        <!--        Top-Grade Life Stone Level 64-->
+        <reward item_id="8759" min="3" max="8" chance="25.0"/>
+        <!--        High-Grade Life Stone Level 64-->
+        <reward item_id="8749" min="3" max="8" chance="25.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25264" name="Kelone's Assassin" title="Raid Fighter">
