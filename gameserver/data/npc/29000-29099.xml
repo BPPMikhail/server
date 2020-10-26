@@ -4907,18 +4907,22 @@
         <reward item_id="4089" min="140" max="420" chance="4.777"/>
         <reward item_id="4088" min="81" max="243" chance="0.8908"/>
         <reward item_id="8348" min="3" max="8" chance="8.7643"/>
-        <reward item_id="4118" min="2" max="6" chance="39.6173"/>
+        <reward item_id="4118" min="2" max="6" chance="34.6173"/>
         <reward item_id="8340" min="5" max="10" chance="0.032"/>
         <reward item_id="4117" min="9" max="27" chance="9.2922"/>
         <reward item_id="4116" min="5" max="15" chance="16.7259"/>
+        <!--        High-Grade Life Stone Level 58-->
+        <reward item_id="8747" min="10" max="20" chance="5.0"/>
       </group>
       <group chance="7.8702">
         <reward item_id="8180" min="1" max="1" chance="100.0"/>
       </group>
       <group chance="18.028">
-        <reward item_id="110" min="1" max="1" chance="41.724"/>
+        <reward item_id="110" min="1" max="1" chance="36.724"/>
         <reward item_id="2417" min="1" max="1" chance="29.138"/>
         <reward item_id="2416" min="1" max="1" chance="29.138"/>
+        <!--        Top-Grade Life Stone Level 58-->
+        <reward item_id="8757" min="10" max="20" chance="5.0"/>
       </group>
       <group chance="15.7844">
         <reward item_id="1343" min="10" max="30" chance="50.0"/>
