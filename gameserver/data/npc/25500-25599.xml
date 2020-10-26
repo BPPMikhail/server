@@ -401,6 +401,54 @@
       <defence attribute="holy" value="0"/>
       <defence attribute="unholy" value="0"/>
     </attributes>
+    <rewardlist type="RATED_GROUPED">
+      <group chance="80.7601">
+        <reward item_id="62" min="12" max="34" chance="0.5299"/>
+        <reward item_id="2454" min="1" max="1" chance="12.1894"/>
+        <reward item_id="2937" min="378" max="1134" chance="0.913"/>
+        <reward item_id="2938" min="572" max="1716" chance="0.6033"/>
+        <reward item_id="2939" min="35" max="105" chance="9.8604"/>
+        <reward item_id="2940" min="45" max="135" chance="7.6691"/>
+        <reward item_id="2941" min="56" max="168" chance="6.1628"/>
+        <reward item_id="2942" min="68" max="204" chance="5.0752"/>
+        <reward item_id="2943" min="81" max="243" chance="4.2606"/>
+        <reward item_id="2944" min="95" max="285" chance="3.6327"/>
+        <reward item_id="2453" min="1" max="1" chance="12.1885"/>
+        <reward item_id="2452" min="1" max="1" chance="12.1885"/>
+        <reward item_id="1958" min="220" max="660" chance="1.5687"/>
+        <reward item_id="2429" min="12" max="36" chance="0.5079"/>
+        <reward item_id="2430" min="13" max="37" chance="0.4876"/>
+        <reward item_id="2431" min="13" max="39" chance="0.4689"/>
+        <reward item_id="2432" min="14" max="40" chance="0.4514"/>
+        <reward item_id="2433" min="1" max="1" chance="12.1885"/>
+        <!--        Chakram-->
+        <reward item_id="263" min="1" max="1" chance="2.2634"/>
+        <!--        Body Slasher-->
+        <reward item_id="302" min="1" max="1" chance="2.2634"/>
+        <!--        Orcish Glaive-->
+        <reward item_id="298" min="1" max="1" chance="2.2634"/>
+        <!--        Scythe-->
+        <reward item_id="96" min="1" max="1" chance="2.2634"/>
+      </group>
+      <group chance="91.3453">
+        Chakram Edge
+        <reward item_id="2073" min="12" max="36" chance="29.5174"/>
+        Scroll: Enchant Armor (C-grade)
+        <reward item_id="952" min="21" max="63" chance="9.4291"/>
+        Body Slasher Blade
+        <reward item_id="2076" min="12" max="36" chance="24.7514"/>
+        Scythe Edge
+        <reward item_id="2062" min="13" max="37" chance="19.8011"/>
+        Orcish Glaive Blade
+        <reward item_id="2075" min="13" max="39" chance="16.501"/>
+      </group>
+      <group chance="50.0">
+        <!--        Scroll: Enchant Weapon (C-grade)-->
+        <reward item_id="951" min="6" max="8" chance="50.0"/>
+        <!--        Blessed Scroll: Enchant Weapon (Grade C)-->
+        <reward item_id="6573" min="1" max="2" chance="50.0"/>
+      </group>
+    </rewardlist>
   </npc>
   <npc id="25505" name="Nellis' Follower" title="Raid Fighter">
     <set name="aggroRange" value="0"/>
