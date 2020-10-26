@@ -5674,6 +5674,10 @@
         <reward item_id="6691" min="3" max="9" chance="35.0234"/>
         <reward item_id="6707" min="3" max="9" chance="53.5246"/>
       </group>
+      <group chance="80.0">
+        <reward item_id="8752" min="1" max="3" chance="50.0"/>
+        <reward item_id="8762" min="1" max="3" chance="50.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="29066" name="Antharas" title="">
