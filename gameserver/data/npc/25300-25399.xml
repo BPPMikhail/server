@@ -505,6 +505,10 @@
         <reward item_id="960" min="1" max="1" chance="30.6528"/>
         <reward item_id="959" min="1" max="1" chance="3.0653"/>
       </group>
+      <group chance="50.0">
+        <reward item_id="8752" min="1" max="3" chance="50.0"/>
+        <reward item_id="8762" min="1" max="3" chance="50.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25306" name="Soul of Fire Nastron" title="Raid Boss">
