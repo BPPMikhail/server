@@ -6833,7 +6833,7 @@
         <reward item_id="8747" min="1" max="2" chance="5.0"/>
       </group>
       <group chance="77.3769">
-        <reward item_id="4119" min="3" max="9" chance="97.9501"/>
+        <reward item_id="4119" min="3" max="9" chance="92.9501"/>
         <reward item_id="234" min="1" max="1" chance="2.0499"/>
         <!--        Top-Grade Life Stone Level 58-->
         <reward item_id="8757" min="1" max="2" chance="5.0"/>
