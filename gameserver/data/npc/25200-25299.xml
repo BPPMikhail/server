@@ -7448,6 +7448,10 @@
         <reward item_id="959" min="1" max="1" chance="6.1241"/><!--Scroll: Enchant Weapon (S-grade)-->
         <reward item_id="8761" min="1" max="2" chance="6.0"/><!--Top-Grade Life Stone Level 70-->
       </group>
+      <group chance="50.0">
+        <reward item_id="8751" min="1" max="3" chance="50.0"/>
+        <reward item_id="8761" min="1" max="3" chance="50.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25283" name="Lilith" title="Raid Boss">
