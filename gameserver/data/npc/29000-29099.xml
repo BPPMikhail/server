@@ -6447,6 +6447,12 @@
         <reward item_id="8751" min="2" max="4" chance="23.5848"/>
         <reward item_id="8752" min="3" max="4" chance="76.4152"/>
       </group>
+      <group chance="20.0">
+        <reward item_id="961" min="3" max="7" chance="100.0"/>
+      </group>
+      <group chance="30.0">
+        <reward item_id="962" min="1" max="3" chance="100.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="29069" name="Behemoth Dragon" title="">
