@@ -4546,6 +4546,10 @@
         <reward item_id="6577" min="1" max="1" chance="0.8616"/>
         <reward item_id="959" min="1" max="1" chance="5.1695"/>
       </group>
+      <group chance="45.0">
+        <reward item_id="8752" min="1" max="3" chance="50.0"/>
+        <reward item_id="8762" min="1" max="3" chance="50.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25451" name="Galaxia's Guards" title="Raid Fighter">
