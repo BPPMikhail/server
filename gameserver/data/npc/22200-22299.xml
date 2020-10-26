@@ -1465,6 +1465,9 @@
         <reward item_id="8627" min="1" max="1" chance="71.1331"/>
         <reward item_id="8633" min="1" max="1" chance="11.955"/>
       </group>
+      <group chance="23.095">
+        <reward item_id="8762" min="1" max="1" chance="13.121"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="22217" name="Tyrannosaurus" title="">
@@ -1576,6 +1579,9 @@
         <reward item_id="8903" min="1" max="1" chance="5.5235"/>
         <reward item_id="8908" min="1" max="1" chance="5.5235"/>
         <reward item_id="8954" min="1" max="1" chance="5.5235"/>
+      </group>
+      <group chance="23.095">
+        <reward item_id="8762" min="1" max="1" chance="13.121"/>
       </group>
     </rewardlist>
   </npc>
