@@ -4397,6 +4397,10 @@
         <reward item_id="3936" min="1" max="1" chance="91.8367"/>
         <reward item_id="6578" min="1" max="1" chance="8.1633"/>
       </group>
+      <group chance="50.0">
+        <reward item_id="8751" min="1" max="3" chance="50.0"/>
+        <reward item_id="8761" min="1" max="3" chance="50.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25250" name="Man-Eating Plant of Palatanos" title="Raid Fighter">
