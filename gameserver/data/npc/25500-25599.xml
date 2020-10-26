@@ -558,6 +558,42 @@
       <defence attribute="holy" value="0"/>
       <defence attribute="unholy" value="0"/>
     </attributes>
+    <rewardlist type="RATED_GROUPED">
+      <group chance="80.2099">
+        <!--        Brigantine tunic-->
+        <reward item_id="352" min="1" max="1" chance="9.0500"/>
+        <!--        Mithril Tunic-->
+        <reward item_id="437" min="1" max="1" chance="11.6500"/>
+        <!--        Manticore Skin Shirt-->
+        <reward item_id="395" min="1" max="1" chance="11.7000"/>
+        <!--        Brigandine Helmet-->
+        <reward item_id="2411" min="2" max="4" chance="24.4900"/>
+        <!--        Blessed Scroll: Enchant Weapon (C-grade)-->
+        <reward item_id="6573" min="1" max="1" chance="43.1100"/>
+      </group>
+      <group chance="96.724">
+        <!--        Elven Necklace-->
+        <reward item_id="913" min="2" max="4" chance="45.0300"/>
+        <!--        Elven Earring-->
+        <reward item_id="2038" min="8" max="16" chance="15.4300"/>
+        <!--        Brigandine Gaiters-->
+        <reward item_id="2378" min="2" max="6" chance="22.2100"/>
+        <!--        Mithril Scale Gaiters-->
+        <reward item_id="2377" min="3" max="7" chance="17.3300"/>
+      </group>
+      <group chance="20.000">
+        <!--        Bich'Hwa-->
+        <reward chance="20.0000" item_id="261" max="1" min="1"/>
+        <!--        Skull Breaker-->
+        <reward chance="20.0000" item_id="169" max="1" min="1"/>
+        <!--        Sword of Magic Fog-->
+        <reward chance="20.0000" item_id="7886" max="1" min="1"/>
+        <!--        Cursed Maingauche-->
+        <reward chance="20.0000" item_id="1660" max="1" min="1"/>
+        <!--        Priest Mace-->
+        <reward chance="20.0000" item_id="7890" max="1" min="1"/>
+      </group>
+    </rewardlist>
   </npc>
   <npc id="25507" name="Rayito's Henchman" title="Raid Fighter">
     <set name="aggroRange" value="0"/>
