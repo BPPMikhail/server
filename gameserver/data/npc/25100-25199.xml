@@ -7075,7 +7075,7 @@
     </attributes>
     <rewardlist type="RATED_GROUPED">
       <group chance="88.2881">
-        <reward item_id="5496" min="11" max="31" chance="28.3687"/>
+        <reward item_id="5496" min="11" max="31" chance="23.3687"/>
         <reward item_id="5497" min="23" max="67" chance="13.2384"/>
         <reward item_id="5509" min="16" max="48" chance="18.6166"/>
         <reward item_id="5296" min="1" max="1" chance="4.3807"/>
@@ -7084,13 +7084,17 @@
         <reward item_id="5290" min="1" max="1" chance="4.3807"/>
         <reward item_id="5508" min="60" max="180" chance="4.9645"/>
         <reward item_id="5547" min="8" max="22" chance="17.289"/>
+        <!--        High-Grade Life Stone Level 58-->
+        <reward item_id="8747" min="1" max="2" chance="5.0"/>
       </group>
       <group chance="49.477">
-        <reward item_id="5548" min="4" max="12" chance="57.8456"/>
+        <reward item_id="5548" min="4" max="12" chance="52.8456"/>
         <reward item_id="80" min="1" max="1" chance="1.4865"/>
         <reward item_id="150" min="1" max="1" chance="1.4865"/>
         <reward item_id="729" min="1" max="1" chance="19.5907"/>
         <reward item_id="6570" min="1" max="1" chance="19.5907"/>
+        <!--        Top-Grade Life Stone Level 58-->
+        <reward item_id="8757" min="1" max="2" chance="5.0"/>
       </group>
     </rewardlist>
   </npc>
