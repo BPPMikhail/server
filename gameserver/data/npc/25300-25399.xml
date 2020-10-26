@@ -244,6 +244,10 @@
         <reward item_id="3936" min="1" max="1" chance="91.8366"/>
         <reward item_id="6578" min="1" max="1" chance="8.1634"/>
       </group>
+      <group chance="50.0">
+        <reward item_id="8752" min="1" max="3" chance="50.0"/>
+        <reward item_id="8762" min="1" max="3" chance="50.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25303" name="Tayr's Aide" title="Raid Fighter">
@@ -3578,6 +3582,10 @@
         <reward item_id="6371" min="1" max="1" chance="0.4667"/>
         <reward item_id="6577" min="1" max="1" chance="0.328"/>
       </group>
+      <group chance="15.0">
+        <reward item_id="8752" min="1" max="3" chance="50.0"/>
+        <reward item_id="8762" min="1" max="3" chance="50.0"/>
+      </group>
       <group chance="18.4848">
         <reward item_id="960" min="1" max="1" chance="90.9088"/>
         <reward item_id="959" min="1" max="1" chance="9.0912"/>
@@ -3836,6 +3844,10 @@
       <group chance="34.3085">
         <reward item_id="3936" min="1" max="1" chance="91.8368"/>
         <reward item_id="6578" min="1" max="1" chance="8.1632"/>
+      </group>
+      <group chance="15.0">
+        <reward item_id="8752" min="1" max="3" chance="50.0"/>
+        <reward item_id="8762" min="1" max="3" chance="50.0"/>
       </group>
     </rewardlist>
   </npc>
@@ -4169,6 +4181,10 @@
         <reward item_id="960" min="1" max="1" chance="17.7576"/>
         <reward item_id="6577" min="1" max="1" chance="0.2959"/>
       </group>
+      <group chance="15.0">
+        <reward item_id="8752" min="1" max="3" chance="50.0"/>
+        <reward item_id="8762" min="1" max="3" chance="50.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25347" name="Knight of Shadow" title="">
@@ -4430,6 +4446,10 @@
         <reward item_id="6711" min="12" max="36" chance="48.048"/>
         <reward item_id="6578" min="1" max="1" chance="4.0226"/>
         <reward item_id="3936" min="1" max="1" chance="45.2542"/>
+      </group>
+      <group chance="15.0">
+        <reward item_id="8752" min="1" max="3" chance="50.0"/>
+        <reward item_id="8762" min="1" max="3" chance="50.0"/>
       </group>
     </rewardlist>
   </npc>
