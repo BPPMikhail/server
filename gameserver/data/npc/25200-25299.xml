@@ -7287,6 +7287,10 @@
         <reward item_id="8160" min="3" max="3" chance="27.3817"/>
         <reward item_id="8176" min="5" max="8" chance="27.3817"/>
       </group>
+      <group chance="25.0">
+        <reward item_id="8751" min="1" max="3" chance="50.0"/>
+        <reward item_id="8761" min="1" max="3" chance="50.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25282" name="Death Lord Shax" title="Raid Boss">
