@@ -4892,6 +4892,16 @@
         <reward item_id="8169" min="2" max="2" chance="33.3333"/>
         <reward item_id="8176" min="4" max="8" chance="33.3333"/>
       </group>
+      <group chance="50.0">
+        <!--        Top-Grade Life Stone Level 61-->
+        <reward item_id="8758" min="3" max="8" chance="25.0"/>
+        <!--        High-Grade Life Stone Level 61-->
+        <reward item_id="8748" min="3" max="8" chance="25.0"/>
+        <!--        Top-Grade Life Stone Level 64-->
+        <reward item_id="8759" min="1" max="5" chance="25.0"/>
+        <!--        High-Grade Life Stone Level 64-->
+        <reward item_id="8749" min="1" max="5" chance="25.0"/>
+      </group>
     </rewardlist>
   </npc>
   <npc id="25256" name="Taik High Prefect Arak" title="Raid Boss">
