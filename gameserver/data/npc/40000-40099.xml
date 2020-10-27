@@ -978,7 +978,8 @@
 		<set name="shots" value="NONE"/>
 		<set name="texture" value=""/>
 		<set name="type" value="Npc"/>
-		<set name="displayId" value="32051"/>
+		<set name="displayId" value="50000"/>
+<!--		32051-->
 		<skills>
 			<skill id="4416" level="19"/>
 		</skills>
