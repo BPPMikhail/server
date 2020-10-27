@@ -307,7 +307,7 @@
 			<defence attribute="unholy" value="20" />
 		</attributes>
 	</npc>
-	<npc id="40013" name="Item Mall" title="Merchant">
+	<npc id="40013" name="Soldier" title="Merchant">
 		<set name="aggroRange" value="0" />
 		<set name="ai_type" value="CharacterAI" />
 		<set name="baseAtkRange" value="40" />
@@ -342,7 +342,8 @@
 		<set name="shots" value="NONE" />
 		<set name="texture" value="" />
 		<set name="type" value="Merchant" />
-		<set name="displayId" value="30417"/>
+		<set name="displayId" value="50000"/>
+<!--		30417-->
 		<set name="htm_root" value="mods/gmshop/" />
 		<attributes>
 			<defence attribute="fire" value="20" />
@@ -704,7 +705,7 @@
             <defence attribute="unholy" value="150" />
         </attributes>
     </npc>
-    <npc id="40025" name="Borna" title="Service Manager">
+    <npc id="40025" name="Spirit" title="Service Manager">
         <set name="aggroRange" value="0" />
         <set name="ai_type" value="CharacterAI" />
         <set name="baseAtkRange" value="40" />
@@ -739,7 +740,8 @@
         <set name="shots" value="NONE" />
         <set name="texture" value="" />
         <set name="type" value="Npc" />
-        <set name="displayId" value="31790"/>
+        <set name="displayId" value="50001"/>
+<!--		31790-->
         <set name="htm_root" value="mods/services/" />
         <attributes>
             <defence attribute="fire" value="20" />
@@ -978,7 +980,7 @@
 		<set name="shots" value="NONE"/>
 		<set name="texture" value=""/>
 		<set name="type" value="Npc"/>
-		<set name="displayId" value="50000"/>
+		<set name="displayId" value="32051"/>
 <!--		32051-->
 		<skills>
 			<skill id="4416" level="19"/>
