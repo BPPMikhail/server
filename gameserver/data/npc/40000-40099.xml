@@ -342,7 +342,7 @@
 		<set name="shots" value="NONE" />
 		<set name="texture" value="" />
 		<set name="type" value="Merchant" />
-		<set name="displayId" value="50000"/>
+		<set name="displayId" value="50005"/>
 <!--		30417-->
 		<set name="htm_root" value="mods/gmshop/" />
 		<attributes>
@@ -740,7 +740,7 @@
         <set name="shots" value="NONE" />
         <set name="texture" value="" />
         <set name="type" value="Npc" />
-        <set name="displayId" value="51001"/>
+        <set name="displayId" value="50004"/>
 <!--		31790-->
         <set name="htm_root" value="mods/services/" />
         <attributes>
@@ -980,7 +980,7 @@
 		<set name="shots" value="NONE"/>
 		<set name="texture" value=""/>
 		<set name="type" value="Npc"/>
-		<set name="displayId" value="50002"/>
+		<set name="displayId" value="51001"/>
 <!--		32051-->
 		<skills>
 			<skill id="4416" level="19"/>
