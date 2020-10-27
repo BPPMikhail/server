@@ -740,7 +740,7 @@
         <set name="shots" value="NONE" />
         <set name="texture" value="" />
         <set name="type" value="Npc" />
-        <set name="displayId" value="50001"/>
+        <set name="displayId" value="51001"/>
 <!--		31790-->
         <set name="htm_root" value="mods/services/" />
         <attributes>
