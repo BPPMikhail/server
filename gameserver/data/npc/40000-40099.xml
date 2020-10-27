@@ -945,7 +945,7 @@
 			<defence attribute="unholy" value="0"/>
 		</attributes>
 	</npc>
-	<npc id="40030" name="Altar Gatekeeper" title="">
+	<npc id="40030" name="Gateway Keeper" title="">
 		<set name="aggroRange" value="0"/>
 		<set name="ai_type" value="CharacterAI"/>
 		<set name="baseAtkRange" value="40"/>
@@ -980,7 +980,7 @@
 		<set name="shots" value="NONE"/>
 		<set name="texture" value=""/>
 		<set name="type" value="Npc"/>
-		<set name="displayId" value="32051"/>
+		<set name="displayId" value="50002"/>
 <!--		32051-->
 		<skills>
 			<skill id="4416" level="19"/>
