@@ -26,7 +26,7 @@
     </skill>
     <skill id="90051" levels="2" name="Rune of SP 30%">
         <table name="#power">1.3 1.5</table>
-        <set name="icon" val="symbol.utx-rune-sp-1"/>
+        <set name="icon" val="modskills.etc_sp_point_i00"/>
         <set name="magicLevel" val="1"/>
         <set name="target" val="TARGET_SELF"/>
         <set name="skillType" val="BUFF"/>
@@ -37,7 +37,7 @@
     </skill>
     <skill id="90052" levels="2" name="Rune of Drop 30%">
         <table name="#power">0.3 0.5</table>
-        <set name="icon" val="symbol.utx-rune-drop-1"/>
+        <set name="icon" val="modskills.four_leaf_clover_i00"/>
         <set name="magicLevel" val="1"/>
         <set name="target" val="TARGET_SELF"/>
         <set name="skillType" val="BUFF"/>
@@ -53,7 +53,7 @@
               Description: One's Grade Penalty decreases by 3,5 level.
         -->
         <table name="#power">3 5</table>
-        <set name="icon" val="br_cashtex.skill.br_cash_rune_of_rp_buff_3"/>
+        <set name="icon" val="modskills.etc_blessed_kalie_i00"/>
         <set name="magicLevel" val="1"/>
         <set name="target" val="TARGET_SELF"/>
         <set name="skillType" val="BUFF"/>
