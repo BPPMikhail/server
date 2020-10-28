@@ -21,7 +21,7 @@
         <set name="crystal_type" value="NONE"/>
         <set name="dropable" value="false"/>
         <set name="durability" value="300"/>
-        <set name="icon" value="br_cashtex.item.br_cash_rune_of_exp_i00"/>
+        <set name="icon" value="modskills.etc_exp_point_i00"/>
         <set name="temporal" value="true"/>
         <set name="tradeable" value="false"/>
         <set name="type" value="RUNE"/>
