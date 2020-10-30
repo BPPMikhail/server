@@ -5,7 +5,7 @@
     <armor id='9980' name="Traveler Hat">
         <!-- [Traveler Hat] -->
         <set name="crystal_type" value="NONE"/>
-        <set name="icon" value=""/>
+        <set name="icon" value="icon.etc_charm_of_courage_i04"/>
         <set name="price" value="500000"/>
         <set name="type" value="NONE"/>
         <set name="weight" value="10"/>
