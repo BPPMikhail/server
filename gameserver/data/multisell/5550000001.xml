@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Quest _650_ABrokenDream  -->
 <list>
-<!--  Тестовый итем-->
-  <item>
+  <item id="1">
     <ingredient id="9912" count="1"/>
     <production id="4037" count="10"/>
   </item>
