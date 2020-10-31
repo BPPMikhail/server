@@ -162,10 +162,21 @@
     <add val='0' order='0x10' stat='pDef'/>
   </for>
 </item>
-<item id='9432' name="Buffalo Face">
+<item id='94322' name="Buffalo Face">
   <for>
     <add val='0' order='0x10' stat='pDef'/>
   </for>
 </item>
+  <armor id="9432" name="Buffalo Face">
+    <!-- [Frog Hat] -->
+    <set name="crystal_type" value="NONE"/>
+    <set name="icon" value=""/>
+    <set name="price" value="500000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="10"/>
+    <equip>
+      <slot id="HAIR_ALL"/>
+    </equip>
+  </armor>
 
 </list>
