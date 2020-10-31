@@ -13,4 +13,363 @@
             <slot id="HAIR_ALL"/>
         </equip>
     </armor>
+    <armor id="9805" name="Cap Adiddas">
+        <!-- [Cap Adiddas] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.br_hat_for_boy_i00"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9804" name="Straw Hat">
+        <!-- [Straw Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.accessory_straw_hat_i00"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9802" name="Mumia Mask">
+        <!-- [Mumia Mask] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.icone_mumia"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9800" name="Frank Mask">
+        <!-- [Frank Mask] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.icone_frank"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9798" name="Alien Mask">
+        <!-- [Alien Mask] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.icone_alien"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9803" name="Panic mask">
+        <!-- [Panic mask] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.icone_panic"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9801" name="Abobora Mask">
+        <!-- [Abobora Mask] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.icone_abobora"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9799" name="Doccabi Mask">
+        <!-- [Doccabi Mask] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.icone_ogre"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9711" name="Bamboo Hat">
+        <!-- [Bamboo Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.br_Bamboo_Hat_i00"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9712" name="Halloween Cap">
+        <!-- [Helloween Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.accessory_halloween_cap_i00"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9713" name="Topper Clown">
+        <!-- [Topper Clown??] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9905" name="Chullo Cap">
+        <!-- [??Fox Mask ] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="cap.chullo"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9981" name="Feline King Hat">
+        <!-- [Feline King Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.accessory_king_of_cat_cap_i00"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9982" name="Bachelor's Cap">
+        <!-- [graduation_cap] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.accessory_graduation_cap_i00"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9983" name="Refined Romantic Chapeau">
+        <!-- [Refined Romantic Chapeau] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.accessory_archer_hat2_i00"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9984" name="Chic Cap">
+        <!-- [Chic Cap???] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9985" name="Afro Hair">
+        <!-- [Afro Hair] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9986" name="Bamboo Hat">
+        <!-- [Bamboo Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value="mod_cap.br_Bamboo_Hat_i00"/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9987" name="Black Gem Mask">
+        <!-- [Black Gem Mask] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9988" name="Tiger Hat">
+        <!-- [Tiger Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9989" name="Sweet Cheese Hat">
+        <!-- [Sweet Cheese Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9990" name="Vesper Noble Mask">
+        <!-- [Vesper Noble Mask] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9991" name="Halisha's Helmet">
+        <!-- [Halisha's Helmet] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9992" name="Force Master Circlet">
+        <!-- Force Master Circlet] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9993" name="Napoleon Hat">
+        <!-- [Napoleon Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9994" name="Uniform Hat">
+        <!-- [Uniform Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9995" name="Refined Wizard Hat">
+        <!-- [Refined Wizard Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9996" name="Refined Angel Ring">
+        <!-- [Refined Angel Ring] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9997" name="Chic Silver Chapeau">
+        <!-- [Chic Silver Chapeau] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+    <armor id="9998" name="Frog Hat">
+        <!-- [Frog Hat] -->
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
 </list>
