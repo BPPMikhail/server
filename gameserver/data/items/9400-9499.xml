@@ -1,27 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <list>
+    <armor id="9400" name="Topper Black">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
 
-<item id='9400' name="Topper Black">
-  <for>
-    <add val='0' order='0x10' stat='pDef'/>
-  </for>
-</item>
-<item id='9401' name="Farmer Hat">
-  <for>
-    <add val='0' order='0x10' stat='pDef'/>
-  </for>
-</item>
-<item id='9402' name="Alien Mask">
-  <for>
-    <add val='0' order='0x10' stat='pDef'/>
-  </for>
-</item>
-<item id='9403' name="Doccabi Mask">
-  <for>
-    <add val='0' order='0x10' stat='pDef'/>
-  </for>
-</item>
+    <armor id="9401" name="Farmer Hat">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+    <armor id="9402" name="Alien Mask">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+
+    <armor id="9402" name="Doccabi Mask">
+        <set name="crystal_type" value="NONE"/>
+        <set name="icon" value=""/>
+        <set name="price" value="500000"/>
+        <set name="type" value="NONE"/>
+        <set name="weight" value="10"/>
+        <equip>
+            <slot id="HAIR_ALL"/>
+        </equip>
+    </armor>
+
+
+
 <item id='9404' name="Frank Mask">
   <for>
     <add val='0' order='0x10' stat='pDef'/>
