@@ -299,7 +299,7 @@
         </equip>
     </armor>
 
-   <armor id="9427" name="Fox Japan Ca">
+   <armor id="9427" name="Fox Japan Cap">
         <set name="crystal_type" value="NONE"/>
         <set name="icon" value=""/>
         <set name="price" value="500000"/>
