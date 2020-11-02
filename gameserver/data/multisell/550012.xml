@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Rune  -->
+<list>
+<!--  Rune of Exp 30% 5-hour limited period-->
+  <item id="1">
+    <ingredient id="6673" count="10"/>
+    <production id="9210" count="1"/>
+  </item>
+  <!--  Rune of Exp 50% 5-hour limited period-->
+  <item id="1">
+    <ingredient id="6673" count="20"/>
+    <production id="9211" count="1"/>
+  </item>
+  <!--  Rune of SP 30% 5-hour limited period-->
+  <item id="1">
+    <ingredient id="6673" count="10"/>
+    <production id="9212" count="1"/>
+  </item>
+  <!--  Rune of SP 50% 5-hour limited period-->
+  <item id="1">
+    <ingredient id="6673" count="20"/>
+    <production id="9213" count="1"/>
+  </item>
+<!--  Rune of Drop 30% 5-hour limited period-->
+  <item id="1">
+    <ingredient id="6673" count="40"/>
+    <production id="9214" count="1"/>
+  </item>
+  <!--  Rune of Drop 50% 5-hour limited period-->
+  <item id="1">
+    <ingredient id="6673" count="50"/>
+    <production id="9215" count="1"/>
+  </item>
+  <!--  Rune of Crystal level 3-->
+  <item id="1">
+    <ingredient id="6673" count="10"/>
+    <production id="9216" count="1"/>
+  </item>
+  <!--  Rune of Crystal level 5-->
+  <item id="1">
+    <ingredient id="6673" count="15"/>
+    <production id="9217" count="1"/>
+  </item>
+
+</list>
