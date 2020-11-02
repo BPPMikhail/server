@@ -166,4 +166,32 @@
             <skill id="90051" level="2"/>
         </skills>
     </etcitem>
+    <etcitem id="9213" name="Rune of Drop 50%" add_name="3 days limited period">
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="dropable" value="false"/>
+        <set name="durability" value="4320"/>
+        <set name="icon" value="modskills.bm_freya_rune"/>
+        <set name="temporal" value="true"/>
+        <set name="tradeable" value="false"/>
+        <set name="type" value="RUNE"/>
+        <set name="weight" value="30"/>
+        <skills>
+            <skill id="90052" level="2"/>
+        </skills>
+    </etcitem>
+    <etcitem id="9214" name="Rune of Drop 50%" add_name="30 days limited period">
+        <set name="class" value="OTHER"/>
+        <set name="crystal_type" value="NONE"/>
+        <set name="dropable" value="false"/>
+        <set name="durability" value="43200"/>
+        <set name="icon" value="modskills.bm_freya_rune"/>
+        <set name="temporal" value="true"/>
+        <set name="tradeable" value="false"/>
+        <set name="type" value="RUNE"/>
+        <set name="weight" value="30"/>
+        <skills>
+            <skill id="90052" level="2"/>
+        </skills>
+    </etcitem>
 </list>

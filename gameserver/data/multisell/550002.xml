@@ -11,5 +11,15 @@
     <ingredient id="4037" count="10"/>
     <production id="9912" count="1"/>
   </item>
+<!--  Rune of Drop 50% 3-days limited period-->
+  <item id="1">
+    <ingredient id="4037" count="3"/>
+    <production id="9913" count="1"/>
+  </item>
+  <!--  Rune of Drop 50% 30-days limited period-->
+  <item id="1">
+    <ingredient id="4037" count="10"/>
+    <production id="9914" count="1"/>
+  </item>
 
 </list>
