@@ -1,10 +1,165 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Accessory  -->
 <list>
-<!--  SSD-->
+<!--  Topper Black-->
   <item id="1">
-    <ingredient id="4037" count="18"/>
-    <production id="1463" count="1"/>
+    <ingredient id="4037" count="25"/>
+    <production id="9400" count="1"/>
+  </item>
+<!--  Farmer Hat-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9401" count="1"/>
+  </item>
+<!--  Alien Mask-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9402" count="1"/>
+  </item>
+<!--  Doccabi Mask-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9403" count="1"/>
+  </item>
+<!--  Frank Mask-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9404" count="1"/>
+  </item>
+<!--  Abobora Mask-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9405" count="1"/>
+  </item>
+<!--  Mumia Mask-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9406" count="1"/>
+  </item>
+<!--  Panic Mask-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9407" count="1"/>
+  </item>
+<!--  Cap Adiddas-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9408" count="1"/>
+  </item>
+<!--  Bamboo Hat-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9409" count="1"/>
+  </item>
+<!--  Helloween Hat-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9410" count="1"/>
+  </item>
+<!--  Topper Clown-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9411" count="1"/>
+  </item>
+<!--  Evil Agation-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9412" count="1"/>
+  </item>
+<!--  God Agation-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9413" count="1"/>
+  </item>
+<!--  Cap DC-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9414" count="1"/>
+  </item>
+<!--  Cap Element-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9415" count="1"/>
+  </item>
+<!--  -->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9416" count="1"/>
+  </item>
+<!--  Chullo-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9417" count="1"/>
+  </item>
+<!--  Cap Billa-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9418" count="1"/>
+  </item>
+<!--  Cap Rus-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9419" count="1"/>
+  </item>
+<!--  Wig GoD One-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9420" count="1"/>
+  </item>
+<!--  Wig GoD Two-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9421" count="1"/>
+  </item>
+<!--  Romantic Chapeau Silver-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9422" count="1"/>
+  </item>
+<!--  Black Uniform Hat-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9423" count="1"/>
+  </item>
+<!--  White Uniform Hat-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9424" count="1"/>
+  </item>
+<!--  Flaps Cap-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9425" count="1"/>
+  </item>
+<!--  Dragonboat Cap-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9426" count="1"/>
+  </item>
+<!--  Fox Japan Cap-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9427" count="1"/>
+  </item>
+<!--  Opera Mask White-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9428" count="1"/>
+  </item>
+<!--  Opera Mask Red-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9429" count="1"/>
+  </item>
+<!--  Opera Mask Blue-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9430" count="1"/>
+  </item>
+<!--  Buffalo Face-->
+  <item id="1">
+    <ingredient id="4037" count="25"/>
+    <production id="9432" count="1"/>
   </item>
 
 </list>
